@@ -9,7 +9,10 @@
         },
         {
             "path": "base-objects",
-            "default": false
+            "default": false,
+            "package": "First_Demo_Package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         }
     ],
     "name": "cohortFall22",
@@ -17,6 +20,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "55.0",
     "packageAliases": {
-        "First_Package": "0Ho4x000000PBD3CAO"
+        "First_Package": "0Ho4x000000PBD3CAO",
+        "First_Demo_Package": "0Ho4x000000PBD8CAO"
     }
 }
