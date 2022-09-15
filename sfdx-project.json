@@ -21,6 +21,7 @@
     "sourceApiVersion": "55.0",
     "packageAliases": {
         "First_Package": "0Ho4x000000PBD3CAO",
-        "First_Demo_Package": "0Ho4x000000PBD8CAO"
+        "First_Demo_Package": "0Ho4x000000PBD8CAO",
+        "First_Demo_Package@1.0.0-1-main": "04t4x000000AyJBAA0"
     }
 }
