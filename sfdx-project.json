@@ -2,7 +2,10 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true
+            "default": true,
+            "package": "First_Package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
         },
         {
             "path": "base-objects",
@@ -12,5 +15,8 @@
     "name": "cohortFall22",
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "55.0"
+    "sourceApiVersion": "55.0",
+    "packageAliases": {
+        "First_Package": "0Ho4x000000PBD3CAO"
+    }
 }
