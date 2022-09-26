@@ -13,6 +13,13 @@
             "package": "First_Demo_Package",
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "base-objects",
+            "package": "New_Package",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "name": "cohortFall22",
@@ -22,6 +29,7 @@
     "packageAliases": {
         "First_Package": "0Ho4x000000PBD3CAO",
         "First_Demo_Package": "0Ho4x000000PBD8CAO",
-        "First_Demo_Package@1.0.0-1-main": "04t4x000000AyJBAA0"
+        "First_Demo_Package@1.0.0-1-main": "04t4x000000AyJBAA0",
+        "New_Package": "0Ho4x000000PBDDCA4"
     }
 }
